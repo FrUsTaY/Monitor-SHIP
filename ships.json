@@ -1,0 +1,450 @@
+[
+    {
+        "name": "Славянка",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.162.22"
+            },
+            {
+                "satellite": "E103",
+                "ip": "195.161.122.218"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Бикин",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.162.6"
+            },
+            {
+                "satellite": "E103",
+                "ip": "195.161.122.222"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Меркурий",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "195.161.140.78"
+            },
+            {
+                "satellite": "E103",
+                "ip": "195.161.122.214"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Посьет",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "195.161.141.138"
+            },
+            {
+                "satellite": "E103",
+                "ip": "195.161.121.170"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Экопасифик",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "212.16.222.166"
+            },
+            {
+                "satellite": "E103",
+                "ip": "195.161.121.130"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": false,
+        "notes": "Стоит в порту"
+    },
+    {
+        "name": "Хороль",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.162.254"
+            },
+            {
+                "satellite": "E103",
+                "ip": "213.241.192.26"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Фрегат",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.164.214"
+            },
+            {
+                "satellite": "E103",
+                "ip": "213.241.192.42"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Тумнин",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.164.222"
+            },
+            {
+                "satellite": "E103",
+                "ip": "213.241.193.34"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Юпитер-2",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.161.190"
+            },
+            {
+                "satellite": "E103",
+                "ip": "195.161.121.226"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Павел Гордиенко",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "212.16.222.254"
+            },
+            {
+                "satellite": "E103",
+                "ip": "213.241.193.86"
+            }
+        ],
+        "status": "в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Мастер",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "212.16.222.150"
+            },
+            {
+                "satellite": "E103",
+                "ip": "195.161.123.250"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Вадим Туманов",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.164.238"
+            },
+            {
+                "satellite": "E103",
+                "ip": "213.241.193.42"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Игорь Афанасьев",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "212.16.222.54"
+            },
+            {
+                "satellite": "E103",
+                "ip": "213.241.193.66"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Узон",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "212.16.222.62"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Игорь Фархутдинов",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.161.2"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": false,
+        "notes": "Судно в порту"
+    },
+    {
+        "name": "Коряк ПХГ",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "82.194.162.74"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Александр Деев",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "212.16.222.250"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": false,
+        "notes": "Судно в порту"
+    },
+    {
+        "name": "Амурское",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "212.16.222.154"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Рыбак",
+        "connections": [
+            {
+                "satellite": "AM5",
+                "ip": "212.16.222.78"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Таврия",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "91.102.200.14"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Полтава",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "91.102.200.10"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Валерий Маслаков",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "91.102.200.182"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Петр Гусенков",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.215.38"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Алестар",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.215.86"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Персей",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.128.14"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Мыс Рубикон",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.128.106"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Сораксан",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.215.42"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": "Судно в порту до 29.06"
+    },
+    {
+        "name": "Капитан Хазан",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.128.126"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "Капитан Щербаков",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.159.86"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    },
+    {
+        "name": "танкер Меркурий",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.128.130"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": true,
+        "notes": ""
+    },
+    {
+        "name": "Печак",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.128.166"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": false,
+        "notes": "Судно в порту"
+    },
+    {
+        "name": "Узон (амтел)",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.128.170"
+            }
+        ],
+        "status": "не в сети",
+        "blocked": false,
+        "notes": "Судно в порту"
+    },
+    {
+        "name": "Капитан",
+        "connections": [
+            {
+                "satellite": "AM5/103 сев/юж",
+                "ip": "195.161.128.174"
+            }
+        ],
+        "status": "в сети",
+        "blocked": false,
+        "notes": ""
+    }
+]
