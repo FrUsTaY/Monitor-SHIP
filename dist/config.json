@@ -1,5 +1,0 @@
-{
-    "monitor_interval": 10,
-    "offline_threshold": 10,
-    "online_threshold": 1
-}
